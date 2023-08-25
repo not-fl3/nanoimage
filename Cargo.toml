@@ -1,6 +1,6 @@
 [package]
 name = "nanoimage"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["not-fl3 <not.fl3@gmail.com>", "Desmond Germans <desmond@germansmedia.nl>"]
 edition = "2018"
 description = "Fork of image-formats"
